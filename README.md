@@ -43,3 +43,8 @@ You also need NUnit libraries
  *  nunit.framework.dll
  *  Moq.dll
 which can be obtained from http://www.nunit.org/
+=======
+XenCenter-Complete-dependencies-
+================================
+
+This is complete .sln project with dependencies injected. Just clone and start everything is configured. Enjoy :)
