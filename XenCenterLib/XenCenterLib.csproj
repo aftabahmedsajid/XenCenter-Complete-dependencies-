@@ -38,19 +38,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CookComputing.XmlRpcV2">
-      <HintPath>..\..\..\..\Downloads\Compressed\xml-rpc.net.2.5.0\bin\CookComputing.XmlRpcV2.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\CookComputing.XmlRpcV2.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
       <HintPath>..\packages\ICSharpCode.SharpZipLib.dll.0.85.4.369\lib\net20\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip">
-      <HintPath>..\..\..\..\Downloads\Compressed\DotNetZipLib-DevKit-v1.9\Tools\Ionic.Zip.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>..\..\..\..\Downloads\Compressed\log4net-1.2.13-bin-newkey\log4net-1.2.13\bin\cli\1.0\release\log4net.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\log4net.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>..\..\..\..\Downloads\Compressed\NUnit-2.6.3\bin\framework\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">

@@ -40,7 +40,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="log4net">
-      <HintPath>..\..\..\..\Downloads\Compressed\log4net-1.2.13-bin-newkey\log4net-1.2.13\bin\cli\1.0\release\log4net.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\log4net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">

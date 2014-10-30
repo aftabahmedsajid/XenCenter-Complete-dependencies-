@@ -38,17 +38,17 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CookComputing.XmlRpcV2">
-      <HintPath>..\..\..\..\Downloads\Compressed\xml-rpc.net.2.5.0\bin\CookComputing.XmlRpcV2.dll</HintPath>
+      <HintPath>..\dll\CookComputing.XmlRpcV2.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>..\..\..\..\Downloads\Compressed\log4net-1.2.13-bin-newkey\log4net-1.2.13\bin\cli\1.0\release\log4net.dll</HintPath>
+      <HintPath>..\dll\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Moq">
-      <HintPath>..\..\..\..\Downloads\Compressed\Moq.4.0.10827.Final\Moq.4.0.10827\NET35\Moq.dll</HintPath>
+      <HintPath>..\dll\Moq.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework, Version=2.5.0.9122, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Downloads\Compressed\NUnit-2.6.3\bin\framework\nunit.framework.dll</HintPath>
+      <HintPath>..\dll\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">

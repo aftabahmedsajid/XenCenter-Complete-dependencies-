@@ -61,11 +61,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DiscUtils">
-      <HintPath>..\..\..\..\Downloads\Compressed\DiscUtilsBin-0.10\DiscUtils.dll</HintPath>
+      <HintPath>..\dll\DiscUtils.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>..\..\..\..\Downloads\Compressed\log4net-1.2.13-bin-newkey\log4net-1.2.13\bin\cli\1.0\release\log4net.dll</HintPath>
+      <HintPath>..\dll\log4net.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>ReportViewer\Microsoft.ReportViewer.WinForms.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
@@ -2104,6 +2105,7 @@
     </EmbeddedResource>
     <None Include="app.config">
     </None>
+    <Fakes Include="Fakes\DiscUtils.fakes" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

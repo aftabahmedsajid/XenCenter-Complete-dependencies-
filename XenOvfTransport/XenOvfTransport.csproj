@@ -38,10 +38,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DiscUtils">
-      <HintPath>..\..\..\..\Downloads\Compressed\DiscUtilsBin-0.10\DiscUtils.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\DiscUtils.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>..\..\..\..\Downloads\Compressed\log4net-1.2.13-bin-newkey\log4net-1.2.13\bin\cli\1.0\release\log4net.dll</HintPath>
+      <HintPath>C:\Users\Jamshoo Lakhani\Desktop\dependencies\dll\log4net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
@@ -121,7 +121,7 @@
   -->
   <ProjectExtensions>
     <VisualStudio>
-      <UserProperties Reset="1" AssemblyVersion="1" AssemblyFileVersion="1" StartDate="20090814" />
+      <UserProperties StartDate="20090814" AssemblyFileVersion="1" AssemblyVersion="1" Reset="1" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>
